@@ -1,0 +1,13 @@
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK4_Uniforms.exe
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK4_Uniforms.pdb
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK.dll
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK.GLControl.dll
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK.pdb
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK.xml
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\bin\Release\OpenTK.GLControl.xml
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\obj\x86\Release\OpenTK4_Triangle.Form1.resources
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\obj\x86\Release\OpenTK4_Uniforms.Properties.Resources.resources
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\obj\x86\Release\OpenTK4_Uniforms.csproj.GenerateResource.Cache
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\obj\x86\Release\OpenTK4_Uniforms.exe
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\obj\x86\Release\OpenTK4_Uniforms.pdb
+C:\Users\Fenix\Documents\Repository\OpenGL4\trunk\Step2_Uniforms\OpenTK4_Uniforms\obj\x86\Release\OpenTK4_Uniforms.csprojResolveAssemblyReference.cache
