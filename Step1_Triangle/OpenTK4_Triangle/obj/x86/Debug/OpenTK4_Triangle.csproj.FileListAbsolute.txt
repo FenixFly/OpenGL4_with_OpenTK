@@ -1,0 +1,12 @@
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK4_Triangle.exe
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK4_Triangle.pdb
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK.dll
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK.pdb
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK.xml
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\obj\x86\Debug\OpenTK4_Triangle.Form1.resources
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\obj\x86\Debug\OpenTK4_Triangle.Properties.Resources.resources
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\obj\x86\Debug\OpenTK4_Triangle.csproj.GenerateResource.Cache
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\obj\x86\Debug\OpenTK4_Triangle.exe
+C:\Users\Fenix\Documents\Repository\OpenTK4_Triangle\OpenTK4_Triangle\obj\x86\Debug\OpenTK4_Triangle.pdb
